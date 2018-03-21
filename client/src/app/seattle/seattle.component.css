@@ -1,0 +1,15 @@
+.locationstuff {
+    display: inline-flex;
+    background-color: peachpuff;
+    border: solid 5px dimgrey;
+    width: 900px;
+    height: 450px;
+    padding-left: 52px;
+    padding-top: 130px;
+    text-align: left;
+    
+}
+
+.emptybox {
+    width: 150px;
+}
